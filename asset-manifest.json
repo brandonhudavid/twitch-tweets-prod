@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/twitch-tweets-prod/static/css/main.85b996b3.css",
-    "main.js": "/twitch-tweets-prod/static/js/main.4cacee4f.js",
+    "main.css": "/twitch-tweets-prod/static/css/main.fcdffd08.css",
+    "main.js": "/twitch-tweets-prod/static/js/main.713258a7.js",
     "static/js/787.1b01f896.chunk.js": "/twitch-tweets-prod/static/js/787.1b01f896.chunk.js",
     "static/media/ludwig.gif": "/twitch-tweets-prod/static/media/ludwig.d29af4dc1f320ce3c7aa.gif",
     "static/media/mizkif.gif": "/twitch-tweets-prod/static/media/mizkif.31b6c5f9d350ec759835.gif",
@@ -36,15 +36,16 @@
     "static/media/PogChamp.png": "/twitch-tweets-prod/static/media/PogChamp.012585624443f3158772.png",
     "static/media/xqc.jpeg": "/twitch-tweets-prod/static/media/xqc.f76409b1168e7485560b.jpeg",
     "static/media/PogChamp2.png": "/twitch-tweets-prod/static/media/PogChamp2.9547df9a704b30d50600.png",
+    "static/media/twitter_logo.png": "/twitch-tweets-prod/static/media/twitter_logo.27cda7bdfce3369a30e8.png",
     "static/media/PauseChamp.png": "/twitch-tweets-prod/static/media/PauseChamp.771994ca7dcd06d0d68e.png",
     "static/media/PauseChamp2.png": "/twitch-tweets-prod/static/media/PauseChamp2.1b17f0384d4de4641ac9.png",
     "index.html": "/twitch-tweets-prod/index.html",
-    "main.85b996b3.css.map": "/twitch-tweets-prod/static/css/main.85b996b3.css.map",
-    "main.4cacee4f.js.map": "/twitch-tweets-prod/static/js/main.4cacee4f.js.map",
+    "main.fcdffd08.css.map": "/twitch-tweets-prod/static/css/main.fcdffd08.css.map",
+    "main.713258a7.js.map": "/twitch-tweets-prod/static/js/main.713258a7.js.map",
     "787.1b01f896.chunk.js.map": "/twitch-tweets-prod/static/js/787.1b01f896.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85b996b3.css",
-    "static/js/main.4cacee4f.js"
+    "static/css/main.fcdffd08.css",
+    "static/js/main.713258a7.js"
   ]
 }
