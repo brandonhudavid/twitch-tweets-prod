@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/twitch-tweets-prod/static/css/main.fcdffd08.css",
-    "main.js": "/twitch-tweets-prod/static/js/main.713258a7.js",
+    "main.css": "/twitch-tweets-prod/static/css/main.93a9b030.css",
+    "main.js": "/twitch-tweets-prod/static/js/main.1c255843.js",
     "static/js/787.1b01f896.chunk.js": "/twitch-tweets-prod/static/js/787.1b01f896.chunk.js",
     "static/media/ludwig.gif": "/twitch-tweets-prod/static/media/ludwig.d29af4dc1f320ce3c7aa.gif",
     "static/media/mizkif.gif": "/twitch-tweets-prod/static/media/mizkif.31b6c5f9d350ec759835.gif",
@@ -40,12 +40,12 @@
     "static/media/PauseChamp.png": "/twitch-tweets-prod/static/media/PauseChamp.771994ca7dcd06d0d68e.png",
     "static/media/PauseChamp2.png": "/twitch-tweets-prod/static/media/PauseChamp2.1b17f0384d4de4641ac9.png",
     "index.html": "/twitch-tweets-prod/index.html",
-    "main.fcdffd08.css.map": "/twitch-tweets-prod/static/css/main.fcdffd08.css.map",
-    "main.713258a7.js.map": "/twitch-tweets-prod/static/js/main.713258a7.js.map",
+    "main.93a9b030.css.map": "/twitch-tweets-prod/static/css/main.93a9b030.css.map",
+    "main.1c255843.js.map": "/twitch-tweets-prod/static/js/main.1c255843.js.map",
     "787.1b01f896.chunk.js.map": "/twitch-tweets-prod/static/js/787.1b01f896.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcdffd08.css",
-    "static/js/main.713258a7.js"
+    "static/css/main.93a9b030.css",
+    "static/js/main.1c255843.js"
   ]
 }
