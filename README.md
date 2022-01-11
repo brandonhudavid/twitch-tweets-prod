@@ -67,7 +67,8 @@ Twitter: [@bdiddydavid](https://twitter.com/bdiddydavid)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+Thank you very much to the following:
 * [The Higher Lower Game](http://www.higherlowergame.com/) - a huge inspiration for the design of this game
-* [English Sandwich's food quiz](https://englishsandwich.github.io/) - for showing how simple games can still be captivating
+* [English Sandwich's food quiz](https://englishsandwich.github.io/) - for showing how the simplest games can still be captivating
+* Friends who helped with user testing - for helping me polish the game before v1.0.0 release
 * All streamers - for providing us with free content every day
-* Friends who helped with user testing - thanks for helping me polish the game before v1.0.0 release
