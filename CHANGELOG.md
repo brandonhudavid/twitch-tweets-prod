@@ -1,5 +1,10 @@
 # Change Log
 
+## [TO DO]
+* Remove unused Firebase methods
+* Fix overlapping Stats pop-up on mobile
+* Refactor code to facilitate collaboration
+
 ## [1.1.0] - 2022-01-11
   
 Addition of Firebase's Firestore Database to the tech stack.
