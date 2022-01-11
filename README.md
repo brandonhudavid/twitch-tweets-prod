@@ -57,6 +57,8 @@ If public reception of this game is good, I'll consider expanding the game to ot
 
 Thanks for your interest in contributing! At the moment, I have not set up a streamlined way for others to contribute. However, I think it would be cool to clean up the code so that others could expand the game to different streaming circles via a simple Pull Request (or even a Google Form for the less tech savvy).
 
+For now, the best way to help would be providing your honest feedback via this [anonymous form](https://forms.gle/RxpQwTfxsxtCcGoM8).
+
 If you're interested in contributing, let's keep in touch! Feel free to contact me on Twitter: [@bdiddydavid](https://twitter.com/bdiddydavid)
 
 <!-- CONTACT -->
