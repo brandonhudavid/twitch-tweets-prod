@@ -39,7 +39,7 @@ And there are 5 hand-picked tweets from each streamer, so 40 tweets in total.
 * [React.js](https://reactjs.org/)
   * [react-reveal](https://www.react-reveal.com/)
   * [react-twitter-embed](https://www.npmjs.com/package/react-twitter-embed)
-* [Lodash](https://lodash.com/)
+* [Firestore](https://firebase.google.com/products/firestore)
 
 <!-- ROADMAP -->
 ## Roadmap
