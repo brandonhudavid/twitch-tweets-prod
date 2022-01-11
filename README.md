@@ -4,7 +4,7 @@
 <br/>
 
 <!-- HEADER -->
-# Twitch Tweets (production branch)
+# Twitch Tweets (production repo)
 </div>
 
 Hello! Welcome to the Production repo for [https://twitchtweets.com/](http://twitchtweets.com/)
@@ -17,8 +17,8 @@ For the Development repo, visit [https://github.com/brandonhudavid/twitch-tweets
 Twitch Tweets is a simple game that undeniably proves how well you know your live streamers. Get a random Tweet, and guess who made the tweet from 4 of your favorite streamers. Keep guessing until you take the L.
 
 <div align="center">
-  <img src="./tt_ss1.jpg" alt="Screenshot-1" width="320"/>
-  <img src="./tt_ss2.jpg" alt="Screenshot-2" width="320"/>
+  <img src="./tt_ss1.jpg" alt="Screenshot-1" width="400"/>
+  <img src="./tt_ss2.jpg" alt="Screenshot-2" width="400"/>
 </div>
 
 There are 8 streamers featured:
