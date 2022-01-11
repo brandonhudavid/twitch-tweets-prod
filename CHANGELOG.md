@@ -1,14 +1,32 @@
 # Change Log
 
-## [1.0.0] - 2022-01-11
+## [TO DO]
+* Remove unused Firebase methods
+* Fix overlapping Stats pop-up on mobile
+* Refactor code to facilitate collaboration
+
+## [1.1.0] - 2022-01-11
   
-Public release for Twitch Tweets!
+Addition of Firebase's Firestore Database to the tech stack.
+ 
+### Added
+* Firestore - to store user guesses and scores.
+ 
+#### Changed
+n/a
+ 
+#### Fixed
+n/a
+
+## [1.0.0] - 2022-01-10
+  
+First stable release for Twitch Tweets!
  
 ### Added
 * Everything
  
-### Changed
+#### Changed
 n/a
  
-### Fixed
+#### Fixed
 n/a

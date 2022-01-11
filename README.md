@@ -39,7 +39,7 @@ And there are 5 hand-picked tweets from each streamer, so 40 tweets in total.
 * [React.js](https://reactjs.org/)
   * [react-reveal](https://www.react-reveal.com/)
   * [react-twitter-embed](https://www.npmjs.com/package/react-twitter-embed)
-* [Lodash](https://lodash.com/)
+* [Firestore](https://firebase.google.com/products/firestore)
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -57,6 +57,8 @@ If public reception of this game is good, I'll consider expanding the game to ot
 
 Thanks for your interest in contributing! At the moment, I have not set up a streamlined way for others to contribute. However, I think it would be cool to clean up the code so that others could expand the game to different streaming circles via a simple Pull Request (or even a Google Form for the less tech savvy).
 
+For now, the best way to help would be providing your honest feedback via this [anonymous form](https://forms.gle/RxpQwTfxsxtCcGoM8).
+
 If you're interested in contributing, let's keep in touch! Feel free to contact me on Twitter: [@bdiddydavid](https://twitter.com/bdiddydavid)
 
 <!-- CONTACT -->
@@ -67,7 +69,8 @@ Twitter: [@bdiddydavid](https://twitter.com/bdiddydavid)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+Thank you very much to the following:
 * [The Higher Lower Game](http://www.higherlowergame.com/) - a huge inspiration for the design of this game
-* [English Sandwich's food quiz](https://englishsandwich.github.io/) - for showing how simple games can still be captivating
+* [English Sandwich's food quiz](https://englishsandwich.github.io/) - for showing how the simplest games can still be captivating
+* Friends who helped with user testing - for helping me polish the game before v1.0.0 release
 * All streamers - for providing us with free content every day
-* Friends who helped with user testing - thanks for helping me polish the game before v1.0.0 release
