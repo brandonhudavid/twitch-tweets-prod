@@ -1,9 +1,24 @@
 # Change Log
 
 ## [TO DO]
-* Remove unused Firebase methods
-* Fix overlapping Stats pop-up on mobile
+* Re-add Firebase functions
 * Refactor code to facilitate collaboration
+
+## [2.0.0](WIP) - 2022-07-08
+
+Large content update for mid-2022.
+
+### Added
+* OfflineTV tweets!
+* Footer with info for the fans :)
+ 
+#### Changed
+* Game keeps track of tweets you've seen across browsing sessions.
+* You can continue games where you last left off.
+* Minor styling and text changes.
+ 
+#### Fixed
+* No more weird "My Stats" overlap on mobile.
 
 ## [1.1.0] - 2022-01-11
   
