@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ca62fa3.css",
-    "main.js": "/static/js/main.45c80742.js",
-    "static/media/itzmasayoshi.gif": "/static/media/itzmasayoshi.47073aef2ed4545df45d.gif",
+    "main.css": "/static/css/main.34c41163.css",
+    "main.js": "/static/js/main.1a1ab47c.js",
+    "static/media/esfand.gif": "/static/media/esfand.c7ddca5844e81a6d30c2.gif",
     "static/media/mizkif.gif": "/static/media/mizkif.581f07556f1998b52a6d.gif",
+    "static/media/jschlatt.gif": "/static/media/jschlatt.1adef2b42e31ddb97e8d.gif",
     "static/media/michaelreeves.gif": "/static/media/michaelreeves.2b7c4c689a1253e7f474.gif",
+    "static/media/tectone.gif": "/static/media/tectone.687ae9be72e078e90b23.gif",
     "static/media/hasanabi.gif": "/static/media/hasanabi.13825e80d902de8eb50d.gif",
     "static/media/MoistCr1TiKaL.gif": "/static/media/MoistCr1TiKaL.f5b8f64b0125dd1b2427.gif",
+    "static/media/nmplol.gif": "/static/media/nmplol.3b445582374d9944062c.gif",
+    "static/media/bruce.gif": "/static/media/bruce.d90d828c3bf9cb916f99.gif",
+    "static/media/rich.gif": "/static/media/rich.13f357127548a972c44b.gif",
+    "static/media/asmongold.gif": "/static/media/asmongold.03b9aabd8b783c609d18.gif",
     "static/media/ludwig.gif": "/static/media/ludwig.96f35560cc8de7b895f7.gif",
+    "static/media/tips.gif": "/static/media/tips.d4baf9b529ead4f0ca70.gif",
+    "static/media/cyr.gif": "/static/media/cyr.044ea7a84f2f1e8f16f4.gif",
+    "static/media/itzmasayoshi.gif": "/static/media/itzmasayoshi.d16bfd5912e53ec8ee19.gif",
     "static/media/xqc.gif": "/static/media/xqc.5403b407092a1c67bfa1.gif",
     "static/media/lilypichu.gif": "/static/media/lilypichu.09937c775616528b0fc8.gif",
     "static/media/scarra.gif": "/static/media/scarra.f7dbeb8ff30f0dc68a3e.gif",
@@ -18,6 +27,7 @@
     "static/media/quarterjade.gif": "/static/media/quarterjade.e05e3856901558eaf136.gif",
     "static/media/sykkuno.gif": "/static/media/sykkuno.1d6a71de5ac78c177c80.gif",
     "static/media/sydeon.gif": "/static/media/sydeon.e9b7f0894a7095370752.gif",
+    "static/media/emiru.gif": "/static/media/emiru.e7bfee6bb8585a59ffe8.gif",
     "static/media/twitchtweets_logo.png": "/static/media/twitchtweets_logo.d753d758d3634d198edf.png",
     "static/media/twitter_logo.png": "/static/media/twitter_logo.27cda7bdfce3369a30e8.png",
     "static/media/PogU2.png": "/static/media/PogU2.fd300f3354eadf3b5e73.png",
@@ -41,11 +51,11 @@
     "static/media/monkaW2.png": "/static/media/monkaW2.b23568df75b35165bd08.png",
     "static/media/otv.png": "/static/media/otv.c3f605237e2c141b37ef.png",
     "index.html": "/index.html",
-    "main.2ca62fa3.css.map": "/static/css/main.2ca62fa3.css.map",
-    "main.45c80742.js.map": "/static/js/main.45c80742.js.map"
+    "main.34c41163.css.map": "/static/css/main.34c41163.css.map",
+    "main.1a1ab47c.js.map": "/static/js/main.1a1ab47c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ca62fa3.css",
-    "static/js/main.45c80742.js"
+    "static/css/main.34c41163.css",
+    "static/js/main.1a1ab47c.js"
   ]
 }

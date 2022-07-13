@@ -2,14 +2,14 @@
 
 ## [TO DO]
 * Re-add Firebase functions
-* Refactor code to facilitate collaboration
+* Find ways to facilitate collaboration
 
 ## [2.0.0](WIP) - 2022-07-08
 
 Large content update for mid-2022.
 
 ### Added
-* OfflineTV tweets!
+* OTK tweets!
 * Footer with info for the fans :)
  
 #### Changed
